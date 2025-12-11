@@ -1,0 +1,8 @@
+#TYPE Microsoft.Powershell.Utility.FileHash
+"Algorithm","Hash","Path"
+"SHA256","619EE824258B1A35DE306311247AD82F1B48CCFA1658588D09602CD5D372466F","C:\Users\Research\Documents\_DriverInstallationPackage\builder\output\AtomicRedTeam_CA.cer"
+"SHA256","DFA4BC20F0A26DAB29B94315837054734DF3C546ED5538ADDCFBE887921131A7","C:\Users\Research\Documents\_DriverInstallationPackage\builder\output\cleanup.bat"
+"SHA256","F8A8C8B95FC9FFB00CBC467389030FB9D018F161D81C01FAA242698BE0B2A165","C:\Users\Research\Documents\_DriverInstallationPackage\builder\output\combroker.sys"
+"SHA256","7AEEAAD15375654AB28FB26F91101F8666515A4E730E487FD59F8219F491DA5A","C:\Users\Research\Documents\_DriverInstallationPackage\builder\output\install.bat"
+"SHA256","BBEC32383BF0EF63591C8B7B428D3F6CA2A37032411C505E15CB006EBBD56DD7","C:\Users\Research\Documents\_DriverInstallationPackage\builder\output\Readme.txt"
+"SHA256","670F1E020F49C82B47DFDE39904722EA82D48FE2DBA202B648778477A015233B","C:\Users\Research\Documents\_DriverInstallationPackage\builder\output\Thunderstruck.hta"
